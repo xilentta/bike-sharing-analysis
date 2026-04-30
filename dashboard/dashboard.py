@@ -194,4 +194,3 @@ with col2:
     - 🔴 **Low Demand**: Musim semi, hujan, atau awal layanan 2011
     """)
 
-st.caption('Copyright (c) 2024')

@@ -11,7 +11,7 @@ Proyek ini adalah analisis data dari Bike Sharing Dataset untuk memenuhi tugas a
 - `url.txt`: Tautan dashboard yang telah dideploy (jika ada).
 
 ## Cara Menjalankan Dashboard
-1. Pastikan Anda memiliki Python terinstal di komputer Anda.
+1. Pastikan Python terinstal di komputer Anda.
 2. Instal semua dependensi yang diperlukan:
    ```bash
    pip install -r requirements.txt
